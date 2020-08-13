@@ -1,2 +1,3 @@
 # hello-world
-cttnhddnnnmggns's first repository
+my name is cttnhddnnnmggns
+this is my first repository
